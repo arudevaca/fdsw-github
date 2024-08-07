@@ -11,6 +11,11 @@ body {
   background-position: left;
 }
 
+/*New Section*/
+h3{
+  color: blueviolet;  
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
